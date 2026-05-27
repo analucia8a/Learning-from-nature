@@ -1,4 +1,6 @@
 # 🌿 Learning From Nature
+By Ana Lucia Ochoa Lopez 
+HSLU Student 
 
 ### Biomimicry • Ecological Systems • Future Energy • Sustainable Technologies
 
