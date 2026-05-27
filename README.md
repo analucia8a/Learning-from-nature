@@ -33,17 +33,16 @@ This repository explores interdisciplinary ideas connecting:
 
 ---
 
+
 ## 📂 Repository Structure
 
-```txt
-research/
-technical-models/
-visual-systems/
-future-energy/
-environmental-data/
-biomimicry-concepts/
-human-wellbeing/
-```
+- [research](./research)
+- [technical-models](./technical-models)
+- [visual-systems](./visual-systems)
+- [future-energy](./future-energy)
+- [environmental-data](./environmental-data)
+- [biomimicry-concepts](./biomimicry-concepts)
+- [human-wellbeing](./human-wellbeing)
 
 ---
 
