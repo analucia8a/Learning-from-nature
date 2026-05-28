@@ -54,6 +54,15 @@ Ana Lucía Ochoa López
 Bachelor Student in Environmental and Energy Systems Engineering  
 Lucerne University of Applied Sciences and Arts (HSLU)
 
+## [Open to Opportunities](./about-me)
 Linkedin: www.linkedin.com/in/ana-lucía-ochoa-lopez 
 
 Interested in interdisciplinary innovation, biomimicry, ecological systems, and future sustainable technologies.
+
+---
+
+## Future Collaboration
+
+I am open to future international and interdisciplinary projects related to sustainability, environmental systems, and innovative engineering solutions.
+
+I understand the importance of German proficiency in Switzerland and I am currently developing my language skills alongside my academic studies at HSLU. I look forward to connecting for future collaborations and professional opportunities.
