@@ -1,37 +1,66 @@
 # Human & Environmental Data
 
-This section contains research projects and environmental analysis focused on sustainability, ecological solutions, chemistry, and the interaction between human activities and environmental systems.
+This section contains laboratory reports, environmental analysis, and sustainability-focused research projects developed through academic and interdisciplinary work.
 
-The projects range from early sustainability initiatives developed during high school to university-level environmental and laboratory analysis at HSLU.
-
-## Featured Projects
-
-### 🌱 Ecological Product Solutions (STEM Project)
-
-Research and development of ecological product alternatives focused on sustainability and environmentally friendly materials.
-
-This project explored:
-
-* Sustainable product design
-* Eco-friendly materials
-* Environmental impact reduction
-* Experimental testing and product evaluation
-
-Developed during high school as part of a STEM initiative.
+The projects combine environmental systems engineering, chemistry, biological analysis, sustainability principles, and scientific data interpretation.
 
 ---
 
-### 🧪 Soil Analysis – Organic Chemistry
+## Featured Projects
 
-Laboratory-based analysis of soil properties and environmental indicators conducted during Semester 2 at HSLU.
+### 🌱 Composting & Plant Tolerance Analysis
 
-Topics included:
 
-* Soil composition analysis
-* Organic chemistry applications
-* Environmental measurement techniques
-* Laboratory experimentation
-* Data interpretation and environmental evaluation
+Laboratory investigation focused on compost quality, environmental parameters, and plant tolerance testing using catnip (Nepeta cataria).
 
-This project strengthened my experience in scientific analysis, laboratory methodology, and environmental systems research.
+➡️ [View Composting and Planting Tolerance Lab Report PDF](./composting-plant-tolerance-report.pdf)
+
+The project included:
+
+* Compost characterization
+* pH and temperature analysis
+* Bulk density and raw unit weight measurements
+* Soil and compost comparison
+* Plant growth tolerance testing
+* Environmental impact evaluation
+* Statistical and laboratory analysis
+
+This work explored the relationship between compost maturity, soil quality, sustainability, and environmental performance in biological systems.
+
+---
+
+### 💧 Water Hardness Analysis
+
+Analytical chemistry project focused on determining water hardness through EDTA complexometric titration and environmental water quality assessment.
+
+➡️ [View Water Hardness Lab Report PDF](./water-hardness-laboratory-report.pdf)
+
+Topics explored:
+
+* Water chemistry
+* Calcium and magnesium concentration analysis
+* pH monitoring during titration
+* Statistical interpretation of laboratory data
+* Environmental and municipal water quality comparison
+* Water treatment and sustainability implications
+
+The study compared municipal tap water and bottled water samples while evaluating environmental and practical impacts of water hardness.
+
+---
+
+### ♻️ Ecological Product Solutions (STEM Project)
+
+High school STEM research project focused on the development and testing of environmentally friendly product alternatives and sustainable material solutions.
+
+➡️ [View STEAM Project PDF](./stem-ecological-products-project.pdf)
+
+Main topics:
+
+* Sustainable product design
+* Eco-friendly materials
+* Experimental testing
+* Environmental awareness
+* Sustainability innovation
+
+This project marked one of my first experiences working with sustainability-oriented research and environmental problem-solving.
 
