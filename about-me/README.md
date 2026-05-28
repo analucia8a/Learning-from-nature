@@ -12,6 +12,7 @@ Currently, I am developing projects related to environmental systems, smart safe
 
 ### 🔹 Visioris – Smart Safety Helmet System
 ➡️ [Open Full Report Visioris PDF](./projectsvisioris-smart-safety-system.pdf) 
+➡️ [Open Full Presentation Visioris PDF](./projectsvisioris-smart-safety-system-presentation.pdf) 
 
 Visioris is a wearable collision-warning system designed to improve situational awareness and safety for construction workers through blind-spot detection and vibration-based feedback.
 
@@ -22,7 +23,24 @@ This project was developed in a multidisciplinary team of four students at HSLU:
 * Sofiia Gasratova
 * Florin Häberli
 
-Working collaboratively in a highly organized and technology-oriented environment allowed us to integrate multiple engineering concepts, including systems thinking, sensor integration, technical modeling, safety analysis, and product development.
+Our concept focused on developing a modular helmet-mounted device capable of detecting nearby hazards and alerting users through intuitive haptic feedback. The project combined engineering design, technical modeling, systems thinking, sensor integration, validation methodologies, and product development.
+
+During the project, we developed:
+
+Market and regulatory research
+Morphological and value-benefit analysis
+Technical specifications
+Construction and CAD plans
+Mockup conception and prototype development
+Verification and validation frameworks
+User-oriented safety analysis
+
+The system was designed using:
+
+ESP32 microcontroller
+Ultrasonic proximity sensors
+Directional vibration motors
+ABS housing and modular construction concepts
 
 One of the greatest achievements of the project was earning **2nd place among approximately 32 competing projects**, which made the experience especially rewarding and motivating.
 
