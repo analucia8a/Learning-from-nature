@@ -54,6 +54,6 @@ Ana Lucía Ochoa López
 Bachelor Student in Environmental and Energy Systems Engineering  
 Lucerne University of Applied Sciences and Arts (HSLU)
 
-Linkedin: www.linkedin.com/in/ana-lucía-ochoa-lopez
+Linkedin: www.linkedin.com/in/ana-lucía-ochoa-lopez 
 
 Interested in interdisciplinary innovation, biomimicry, ecological systems, and future sustainable technologies.
