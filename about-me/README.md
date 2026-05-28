@@ -11,7 +11,7 @@ Currently, I am developing projects related to environmental systems, smart safe
 ## Projects
 
 ### 🔹 Visioris – Smart Safety Helmet System
-➡️ [Open Full Report Visioris PDF]](./projects/visioris-smart-safety-system.pdf) 
+➡️ [Open Full Report Visioris PDF](./projects/visioris-smart-safety-system.pdf) 
 
 Visioris is a wearable collision-warning system designed to improve situational awareness and safety for construction workers through blind-spot detection and vibration-based feedback.
 
