@@ -1,7 +1,9 @@
-#🌱 Planta y Diviértete: Regenerative Systems Inspired by Plants
+# 🌱 Planta y Diviértete: Regenerative Systems Inspired by Plants
 
 One of my ongoing independent research projects is Planta y Diviértete, a long-term exploration of how plants and living ecosystems can inspire future regenerative systems, sustainable technologies, and nature-based innovation.
+
 The project originated from more than six years of personal experience growing plants in Mexico, Canada, and Switzerland. Through continuous observation, I became increasingly interested in understanding how plants adapt to environmental change, manage resources efficiently, interact with surrounding ecosystems, and contribute positively to the systems around them.
+
 Rather than viewing plants solely as biological organisms, this research investigates how their strategies may inspire future approaches to engineering, environmental systems, and regenerative design.
 
 Current areas of exploration include:
