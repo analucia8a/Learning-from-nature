@@ -12,7 +12,13 @@
 
 **Project Status:** Independent Research Initiative
 
-**Date:** 2026
+**Date:** May 29,2026
+
+---
+
+## 📄 Full Research Proposal
+
+➡️ [Open PDF Version](./Research_Proposal_Planta_y_Diviertete.pdf)
 
 ---
 
