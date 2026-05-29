@@ -60,7 +60,7 @@ For readers interested in how these ideas continue to evolve, the next stage of 
 
 🌿 **Planta y Diviértete: Regenerative Systems Inspired by Plants**
 
-➡️ [**Explore Planta y Diviértete**](..Research_Planta_y_Diviertete/)
+➡️ [**Explore Planta y Diviértete**](../Research_Planta_y_Diviertete/)
 
 
 
