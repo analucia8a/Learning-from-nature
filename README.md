@@ -43,18 +43,19 @@ This repository explores interdisciplinary ideas connecting:
 - [visual-systems](./visual-systems)
 - [future-energy](./future-energy)
 - [environmental-data](./environmental-data)
-- [biomimicry-concepts](./biomimicry-concepts)
-- [human-wellbeing](./human-wellbeing)
+- [Lessons From Living Systems](./biomimicry)
+- [Human & Ecological Wellbeing](./human-wellbeing)
+
 
 ---
 
-## 🌱 About Me
+## Open to Opportunities
 
 Ana Lucía Ochoa López  
 Bachelor Student in Environmental and Energy Systems Engineering  
 Lucerne University of Applied Sciences and Arts (HSLU)
 
-## [Open to Opportunities](./about-me)
+### ➡️[Explore my journey](./about-me)
 Linkedin: www.linkedin.com/in/ana-lucía-ochoa-lopez 
 
 Interested in interdisciplinary innovation, biomimicry, ecological systems, and future sustainable technologies.
