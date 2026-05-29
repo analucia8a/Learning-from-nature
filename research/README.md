@@ -74,7 +74,7 @@ Long-term research initiatives currently under development.
 🌿 **Planta y Diviértete**
 *Learning from Plants to Design Regenerative Systems for Future Communities*
 
-➡️ [View Section- Planta y diviertete](./Research_Planta_y_diviertete)
+➡️ [View Section- Planta y diviertete](./Research_Planta_y_Diviertete)
 
 ### Current Research Themes
 
