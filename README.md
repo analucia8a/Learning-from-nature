@@ -30,6 +30,11 @@ This repository documents academic projects, independent research, technical exp
 * Community Resilience
 * Sustainable Technologies
 
+<td width="35%" valign="middle" align="center">
+
+<img src="logo-planta-y-diviertete.png" width="220">
+
+</td>
 ---
 
 ## 🔬 Research Vision
