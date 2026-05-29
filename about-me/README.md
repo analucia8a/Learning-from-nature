@@ -1,4 +1,6 @@
-# Who is behind Planta y Diviértete?
+# 📁 About Me
+
+## Who is behind Planta y Diviértete?
 
 ***Welcome to the personal section of the project.***
 
