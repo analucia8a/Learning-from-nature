@@ -1,3 +1,24 @@
+# 📁 Environmental Data
+
+## Why does this project matter?
+
+This section contains environmental evidence, scientific reports, and sustainability data that support the need for regenerative systems and nature-based solutions.
+
+Topics include:
+
+* Climate change
+* Carbon emissions
+* Biodiversity loss
+* Ecosystem degradation
+* Nature-based solutions
+* Carbon sequestration
+* Forest restoration
+* Environmental resilience
+
+The purpose of this section is to understand the environmental challenges that inspire this project and provide scientific evidence for future research directions.
+
+---
+
 # Human & Environmental Data
 
 This section contains laboratory reports, environmental analysis, and sustainability-focused research projects developed through academic and interdisciplinary work.
