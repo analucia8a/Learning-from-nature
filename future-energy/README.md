@@ -1,86 +1,26 @@
-# 🌱 Learning From Plants: Biomimicry and Future Energy Systems
-
-## Research Project
-
-### Main Research Question
-
-How can plants and ecological systems inspire future engineering solutions for sustainable energy production and environmental resilience?
+# Planta y Diviértete
+***Learning from Plants to Design Regenerative Systems for Future Communities***
+### Author: Ana Lucía Ochoa López
+### Field: Environmental and Energy Systems Engineering, Biomimicry, Regenerative Design, Nature-Based Solutions
+### Status: Ongoing Independent Research Project
 
 ---
 
-## 🌍 About This Project
+## Abstract
 
-This project explores how biological systems, plants, and ecosystems can inspire future sustainable technologies through biomimicry and systems thinking.
+Modern society has achieved remarkable technological advances; however, many human systems continue to generate waste, pollution, resource depletion, and environmental degradation. Current engineering approaches often focus on extraction, efficiency, and production rather than regeneration and ecological balance.
 
-The research focuses on the relationship between:
+This project explores how plants and living ecosystems can inspire a new generation of regenerative systems that contribute positively to both humans and the environment. Instead of viewing nature as a resource to consume, the project investigates plants as adaptive, resilient, and regenerative systems capable of teaching valuable principles for future engineering design.
 
-* ecology
-* engineering
-* resilience
-* energy systems
-* urban sustainability
-* nature-based solutions
+Inspired by more than six years of personal experience growing plants in Mexico, Canada, and Switzerland, this research seeks to understand how plants interact with sunlight, water, nutrients, climate, and surrounding ecosystems. The project aims to identify biological principles that can be translated into future products, environmental systems, and community solutions that operate in harmony with ecological cycles.
 
-Rather than viewing nature only as a resource, this project investigates how natural systems may function as models for future environmental and technological innovation.
+The long-term vision is to explore how engineering can move beyond sustainability toward regeneration by creating systems that restore, support, and strengthen living ecosystems while improving human wellbeing.
 
 ---
+## Introduction
 
-## 🔬 Research Topics
+Many environmental challenges today result from systems that extract resources faster than ecosystems can regenerate them. Industrial processes, infrastructure, and consumption patterns often create waste streams that accumulate in the environment and contribute to climate change, biodiversity loss, and pollution.
 
-* Photosynthesis and energy efficiency
-* Plant adaptation and resilience
-* Ecosystem intelligence
-* Biomimicry in engineering
-* Nature-inspired materials
-* Sustainable infrastructure
-* CO₂ reduction strategies
-* Future energy systems
-* Ecological urban design
+In contrast, natural ecosystems operate through continuous cycles of regeneration. Plants capture solar energy, absorb carbon dioxide, produce oxygen, recycle nutrients, support biodiversity, and create conditions for future growth. Waste in nature becomes a resource for another process.
 
----
-
-## 🌿 Why This Matters
-
-Current environmental challenges require interdisciplinary approaches that integrate engineering, ecology, and systems thinking.
-
-Natural systems have evolved adaptive and resilient mechanisms over millions of years. Understanding these systems may help inspire future technologies capable of addressing climate change and sustainability challenges.
-
----
-
-## 📚 Project Goals
-
-* Explore scientific literature related to biomimicry and ecological systems
-* Connect environmental science with engineering concepts
-* Develop systems-thinking approaches for sustainability
-* Investigate future possibilities for nature-inspired technologies
-* Build a personal research portfolio
-
----
-
-## 🚀 Future Directions
-
-This project is intended as an evolving research portfolio including:
-
-* diagrams
-* sketches
-* scientific references
-* conceptual ideas
-* reflections
-* future research questions
-
----
-
-## 👩‍🔬 Author
-
-Ana Lucía Ochoa López
-Environmental and Energy Systems Engineering Student
-Lucerne University of Applied Sciences and Arts (HSLU)
-
-Interested in:
-
-* sustainable infrastructure
-* nature-based solutions
-* ecological systems
-* future urban resilience
-* interdisciplinary environmental research
-
+This project explores how engineering can learn from these biological strategies. Rather than designing systems that merely reduce environmental harm, the goal is to investigate systems capable of actively restoring ecological balance.
