@@ -1,3 +1,26 @@
+# 📁 Future Energy
+
+## Main Research Proposal
+
+This folder contains the core vision of Planta y Diviértete.
+
+The project explores how plants and living ecosystems can inspire regenerative systems that contribute positively to both humans and the environment.
+
+Contents include:
+
+* Research proposal
+* Abstract
+* Research questions
+* Research objectives
+* Future vision
+* Biomimicry principles
+* Regenerative engineering concepts
+* Environmental impact goals
+* References and sources of inspiration
+
+This section represents the main direction of the project and serves as the foundation for future development, collaboration, and research.
+
+---
 # Planta y Diviértete
 ***Learning from Plants to Design Regenerative Systems for Future Communities***
 ### Author: Ana Lucía Ochoa López
