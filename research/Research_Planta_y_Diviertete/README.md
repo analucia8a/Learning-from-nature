@@ -22,4 +22,4 @@ This research remains an evolving exploration and serves as a foundation for fut
 
 ---
 
-➡️ [Explore Main Research Proposal](../../future-energy/)
+➡️ [Explore Main Research Proposal](./Research_Proposal)
