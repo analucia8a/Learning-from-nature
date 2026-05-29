@@ -1,10 +1,16 @@
-# 🌿 Learning From Nature
 
-### By Ana Lucía Ochoa López
 
-*Environmental and Energy Systems Engineering Student — HSLU*
+<p align="center">
+  <img src="logo-planta-y-diviertete.png" width="350">
+</p>
 
-### Biomimicry  | Living Systems  | Regenerative Design | Future Sustainable Technologies
+<h1 align="center">🌱 Learning From Nature</h1>
+
+<p align="center">
+Biomimicry • Living Systems • Regenerative Design • Future Sustainable Technologies
+</p>
+
+---
 
 Welcome to my interdisciplinary research and technical portfolio exploring how plants, ecosystems, and living systems can inspire future approaches to engineering, sustainability, and environmental innovation.
 
@@ -51,7 +57,7 @@ This repository brings together ideas and projects connecting:
 
 To develop research, technologies, and regenerative systems inspired by nature that help strengthen both environmental and human wellbeing while contributing to a more resilient future.
 
---
+---
 
 ## 📂 Repository Structure
 
