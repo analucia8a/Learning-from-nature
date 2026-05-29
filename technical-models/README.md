@@ -1,10 +1,20 @@
-# Technical Models
+# 📁 Technical Models
 
-This section contains: 
+**How does the system work?**
 
-- System framework
+This folder contains technical frameworks, system diagrams, conceptual models, and engineering interpretations inspired by plant behavior and ecosystem dynamics.
+
+## Contents:
+
+- System frameworks
 - Input-output diagrams
-- Future concepts
+- Plant interaction models
+- Biomimicry models
+- Conceptual engineering systems
+- Future product ideas
+- Regenerative system concepts
+
+The purpose of this section is to translate biological observations into engineering thinking.
   
 ---
 
