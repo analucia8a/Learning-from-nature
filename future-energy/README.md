@@ -53,4 +53,4 @@ While the main project explores how humans can learn from plants and living ecos
 
 The purpose of this section is to investigate how future energy systems may evolve from extraction-based models toward regenerative systems that contribute positively to both ecosystems and human communities.
 
-➡️ [**Explore Planta y Diviértete**](../research/Research_Planta_y_Diviertete/))
+➡️ [**Explore Planta y Diviértete**](../research/Research_Planta_y_Diviertete/)
