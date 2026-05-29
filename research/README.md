@@ -1,10 +1,26 @@
 # 🌿 Research Portfolio
 
-### Exploring Nature, Engineering & Future Regenerative Systems
+## What research questions am I exploring?
 
-This portfolio brings together academic projects, independent research, and future research directions developed throughout my journey in Environmental and Energy Systems Engineering.
+This portfolio brings together academic projects, independent investigations, research explorations, and future research directions developed throughout my journey in Environmental and Energy Systems Engineering.
 
-My interests focus on understanding how nature, ecological systems, and biomimicry can inspire more regenerative, resilient, and sustainable solutions for the future.
+The work presented here focuses on understanding how nature, ecological systems, biomimicry, and environmental processes can inspire future technologies, regenerative systems, and sustainable solutions for society.
+
+## Contents:
+
+* HSLU Research & Academic Projects
+* Independent Research Explorations
+* Biomimicry Studies
+* Ecological Systems Research
+* Nature-Based Solutions
+* Future Energy Systems
+* Regenerative Engineering Concepts
+* Sustainability & Environmental Innovation
+* Ongoing Research Projects
+* Future Research Directions
+
+The purpose of this section is to document my research journey, explore new questions, and build a foundation for future investigations inspired by nature, engineering, and regenerative thinking.
+
 
 ---
 
