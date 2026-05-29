@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="logo-planta-y-diviertete.png" width="350">
 </p>
