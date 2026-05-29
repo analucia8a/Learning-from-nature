@@ -22,4 +22,4 @@ This research remains an evolving exploration and serves as a foundation for fut
 
 ---
 
-➡️ [Explore Main Research Proposal](../../Research_Proposal)
+📄 [Open Research Proposal](./Research_Proposal/))
