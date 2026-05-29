@@ -1,50 +1,67 @@
 # 🌿 Learning From Nature
-By Ana Lucia Ochoa Lopez 
-- HSLU Student 
 
-### Biomimicry • Ecological Systems • Future Energy • Sustainable Technologies
+### By Ana Lucía Ochoa López
 
-Welcome to my interdisciplinary research and technical portfolio exploring how natural systems can inspire future technologies, sustainable engineering, and environmental innovation.
+*Environmental and Energy Systems Engineering Student — HSLU*
+
+### Biomimicry  | Living Systems  | Regenerative Design | Future Sustainable Technologies
+
+Welcome to my interdisciplinary research and technical portfolio exploring how plants, ecosystems, and living systems can inspire future approaches to engineering, sustainability, and environmental innovation.
+
+This repository documents academic projects, independent research, technical explorations, and long-term investigations developed throughout my journey in Environmental and Energy Systems Engineering.
+
+---
 
 ## 🌍 Main Research Interests
 
-- Biomimicry
-- Ecological Systems
-- Nature-Inspired Technologies
-- Sustainable Energy Systems
-- Environmental Engineering
-- Systems Thinking
-- Human Wellbeing & Nature
-- Future Sustainable Design
+* Biomimicry & Nature-Inspired Innovation
+* Living Systems & Ecological Intelligence
+* Regenerative Engineering
+* Environmental Engineering
+* Nature-Based Solutions
+* Future Energy Systems
+* Systems Thinking
+* Human & Ecological Wellbeing
+* Community Resilience
+* Sustainable Technologies
 
 ---
 
 ## 🔬 Research Vision
 
-I believe future technologies should not only reduce environmental impact, but also learn directly from natural systems in order to create more adaptive, resilient, and integrated solutions for society.
+Nature has spent billions of years developing solutions to challenges related to energy, adaptation, resilience, cooperation, and regeneration.
 
-This repository explores interdisciplinary ideas connecting:
+My research explores how humans can learn from these living systems to design technologies, products, and environmental solutions that contribute positively to both ecosystems and communities.
 
-- Nature
-- Engineering
-- Sustainability
-- Technology
-- Energy Systems
-- Ecology
-- Human-Centered Design
+Rather than asking only how technology can become more efficient, I am interested in understanding how future systems can become more regenerative, adaptive, and integrated with the natural world.
+
+This repository brings together ideas and projects connecting:
+
+* 🌱 Plants & Living Systems
+* ⚙️ Engineering & Technology
+* ♻️ Regeneration & Sustainability
+* 🌍 Ecology & Environmental Systems
+* ⚡ Future Energy
+* 🤝 Human Communities
+* 🚀 Future Innovation
 
 ---
 
+## 🌿 Long-Term Goal
+
+To develop research, technologies, and regenerative systems inspired by nature that help strengthen both environmental and human wellbeing while contributing to a more resilient future.
+
+--
 
 ## 📂 Repository Structure
 
-- [research](./research)
-- [technical-models](./technical-models)
-- [visual-systems](./visual-systems)
-- [future-energy](./future-energy)
-- [environmental-data](./environmental-data)
-- [Lessons From Living Systems](./biomimicry)
-- [Human & Ecological Wellbeing](./human-wellbeing)
+- [ 🔬 Research](./research)
+- [ 🌿 Technical-Models](./technical-models)
+- [ ⚡ Visual-Systems](./visual-systems)
+- [ 📊 Future-Energy](./future-energy)
+- [ ⚙️ Environmental Data](./environmental-data)
+- [ 🎨 Lessons From Living Systems](./biomimicry)
+- [ 🤝 Human & Ecological Wellbeing](./human-wellbeing)
 
 
 ---
