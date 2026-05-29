@@ -22,4 +22,10 @@ This research remains an evolving exploration and serves as a foundation for fut
 
 ---
 
-📄 [Open Research Proposal](./Research_Proposal/))
+## 📄 Research Proposal
+
+This document presents the formal research proposal of *Planta y Diviértete*, outlining the project's motivation, research questions, objectives, methodology, and future vision.
+
+The proposal investigates how plants and living ecosystems may inspire regenerative systems, nature-inspired technologies, and future approaches to environmental engineering.
+
+➡️ [Open Full Research Proposal](./Research_Proposal/)
