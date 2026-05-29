@@ -7,16 +7,17 @@ The project originated from more than six years of personal experience growing p
 Rather than viewing plants solely as biological organisms, this research investigates how their strategies may inspire future approaches to engineering, environmental systems, and regenerative design.
 
 Current areas of exploration include:
-	• Biomimicry and nature-inspired innovation
-	• Regenerative engineering
-	• Plant adaptation and resilience
-	• Ecological systems thinking
-	• Nature-based solutions
-	• Circular and regenerative design
-	• Future environmental technologies
-	• Human-nature relationships
+- Biomimicry and nature-inspired innovation
+- Regenerative engineering
+- Plant adaptation and resilience
+- Ecological systems thinking
+- Nature-based solutions
+- Circular and regenerative design
+- Future environmental technologies
+- Human-nature relationships
   
 The long-term vision of the project is to explore how future systems can move beyond sustainability toward regeneration, creating solutions that restore ecosystems, strengthen communities, and contribute positively to both people and the environment.
+
 This research remains an evolving exploration and serves as a foundation for future academic projects, collaborations, internships, and interdisciplinary research opportunities.
 
 ---
