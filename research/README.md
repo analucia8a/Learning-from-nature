@@ -1,25 +1,102 @@
 # 🌿 Research Portfolio
 
-This portfolio brings together research projects, academic explorations, presentations, and independent investigations developed throughout my academic journey.
+### Exploring Nature, Engineering & Future Regenerative Systems
 
-The collection reflects my growing interests in environmental engineering, biomimicry, ecological systems, sustainability, nature-based solutions, regenerative design, and future technologies inspired by living systems.
+This portfolio brings together academic projects, independent research, and future research directions developed throughout my journey in Environmental and Energy Systems Engineering.
 
-Some projects originate from coursework and academic activities at the Lucerne University of Applied Sciences and Arts (HSLU), while others emerge from personal curiosity and long-term independent research initiatives.
+My interests focus on understanding how nature, ecological systems, and biomimicry can inspire more regenerative, resilient, and sustainable solutions for the future.
 
-The purpose of this portfolio is not only to document completed work, but also to explore new questions, develop future ideas, and build a foundation for future research directions.
+---
 
-This portfolio is organized into three main categories:
+## 🎓 HSLU Research & Academic Projects
 
-### 🎓 HSLU Research & Academic Projects
+Research, presentations, and investigations developed as part of my studies at the Lucerne University of Applied Sciences and Arts (HSLU).
 
-Research, presentations, reports, and investigations developed as part of my studies in Environmental and Energy Systems Engineering.
+➡️[View – HSLU Research & Academic Projects](./hsluResearchAcademicProject) 
 
-### 📚 Previous Research Explorations
+### Topics explored:
 
-Independent projects, presentations, and investigations that have shaped my understanding of environmental systems, sustainability, and nature-inspired innovation.
+* Nature-Based Solutions
+* Environmental Engineering
+* Energy Systems
+* Sustainability
+* Climate Adaptation
+* Urban Systems
+* Environmental Analysis
+* Technical Projects
 
-### 🌱 Ongoing & Future Research Directions
+---
 
-Long-term research initiatives currently under development, including Planta y Diviértete and other explorations related to biomimicry, regenerative systems, ecological engineering, and future sustainable technologies.
+## 📚 Previous Research Explorations
 
-Together, these projects represent my ongoing effort to learn from nature and explore how living systems can inspire more resilient, regenerative, and sustainable futures.
+Independent projects and investigations that helped shape my current research interests.
+
+➡️ [View Section- Previous Research Explorations](./Previous_Research_Exploration)
+
+### Topics explored:
+
+* Biomimicry
+* Future Energy Systems
+* Ecological Thinking
+* Sustainable Technologies
+* Environmental Innovation
+* Systems Thinking
+
+### Featured Project:
+
+🌱 **Learning From Plants: Biomimicry and Future Energy Systems**
+*(May 2026)*
+
+---
+
+## 🌱 Ongoing & Future Research Directions
+
+Long-term research initiatives currently under development.
+
+### Main Research Project
+
+🌿 **Planta y Diviértete**
+*Learning from Plants to Design Regenerative Systems for Future Communities*
+
+➡️ [View Section- Planta y diviertete](./Research_Planta_y_diviertete)
+
+### Current Research Themes
+
+* Regenerative Engineering
+* Plant-Inspired Design
+* Biomimicry
+* Living Systems
+* Ecological Engineering
+* Circular Systems
+* Nature-Based Innovation
+* Human-Nature Relationships
+* Community Resilience
+* Environmental Restoration
+
+### Key Research Question
+
+> How can humans learn from plants and living ecosystems to design regenerative systems that contribute positively to both environmental and human communities?
+
+---
+
+## 🔭 Future Areas of Exploration
+
+Future topics I would like to investigate include:
+
+* Plant-Inspired Energy Systems
+* Regenerative Materials
+* Living Infrastructure
+* Carbon Sequestration
+* Ecological Restoration
+* Community-Based Sustainability
+* Environmental Education
+* Nature-Inspired Technologies
+* Biomimetic Innovation
+
+---
+
+## 🌎 Long-Term Vision
+
+To build a multidisciplinary research platform that explores how living systems can inspire future engineering, environmental solutions, and regenerative communities.
+
+The goal is not only to create sustainable systems, but to explore systems that actively regenerate and strengthen both ecosystems and human wellbeing.
