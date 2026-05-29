@@ -1,3 +1,22 @@
+# Who is behind Planta y Diviértete?
+
+***Welcome to the personal section of the project.***
+
+Here you can learn more about my journey as an Environmental and Energy Systems Engineering student and how my passion for plants evolved into a long-term research project.
+
+This section includes:
+
+- My personal story
+- Why I started growing plants in 2020
+- My experiences growing plants in Mexico, Canada, and Switzerland
+- My academic background
+- My motivation for studying environmental systems
+- My long-term vision for regenerative engineering and nature-inspired innovation
+
+The goal of this section is to explain why this project matters to me and how it became the foundation of my future research interests.
+
+---
+
 # Hi, I'm Ana Lucía Ochoa López 👋
 
 Environmental & Energy Systems Engineering student at HSLU (Lucerne University of Applied Sciences and Arts), passionate about sustainable infrastructure, climate adaptation, environmental systems, and nature-based solutions.
