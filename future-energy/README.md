@@ -1,49 +1,56 @@
-# 📁 Future Energy
+# ⚡ Future Energy
 
-## Main Research Proposal
+## How can living systems inspire the future of energy?
 
-This folder contains the core vision of Planta y Diviértete.
+This section explores energy-related ideas, concepts, and research directions emerging from the broader *Planta y Diviértete* research initiative.
 
-The project explores how plants and living ecosystems can inspire regenerative systems that contribute positively to both humans and the environment.
+The research investigates how plants, ecosystems, and biological systems manage energy, resources, adaptation, and resilience. By studying these natural processes, this section explores how future energy systems may become more efficient, regenerative, and environmentally integrated.
 
-Contents include:
+Rather than focusing solely on technological solutions, the goal is to understand how living systems can inspire new approaches to energy generation, storage, resource management, and environmental restoration.
 
-* Research proposal
-* Abstract
-* Research questions
-* Research objectives
-* Future vision
-* Biomimicry principles
-* Regenerative engineering concepts
-* Environmental impact goals
-* References and sources of inspiration
+### Research Themes
 
-This section represents the main direction of the project and serves as the foundation for future development, collaboration, and research.
+#### 🌱 Learning From Plants
 
----
-# Planta y Diviértete
-***Learning from Plants to Design Regenerative Systems for Future Communities***
-### Author: Ana Lucía Ochoa López
-### Field: Environmental and Energy Systems Engineering, Biomimicry, Regenerative Design, Nature-Based Solutions
-### Status: Ongoing Independent Research Project
+* Photosynthesis and natural energy systems
+* Plant adaptation strategies
+* Resource efficiency in nature
+* Energy flows in ecosystems
 
----
+#### ⚡ Future Energy Concepts
 
-## Abstract
+* Plant-inspired energy systems
+* Nature-inspired energy innovation
+* Renewable energy concepts
+* Future sustainable technologies
 
-Modern society has achieved remarkable technological advances; however, many human systems continue to generate waste, pollution, resource depletion, and environmental degradation. Current engineering approaches often focus on extraction, efficiency, and production rather than regeneration and ecological balance.
+#### 🧫 Biological & Ecological Energy Systems
 
-This project explores how plants and living ecosystems can inspire a new generation of regenerative systems that contribute positively to both humans and the environment. Instead of viewing nature as a resource to consume, the project investigates plants as adaptive, resilient, and regenerative systems capable of teaching valuable principles for future engineering design.
+* Microalgae research
+* Biological energy production
+* Ecosystem services
+* Carbon sequestration systems
 
-Inspired by more than six years of personal experience growing plants in Mexico, Canada, and Switzerland, this research seeks to understand how plants interact with sunlight, water, nutrients, climate, and surrounding ecosystems. The project aims to identify biological principles that can be translated into future products, environmental systems, and community solutions that operate in harmony with ecological cycles.
+#### ♻️ Regenerative Energy Thinking
 
-The long-term vision is to explore how engineering can move beyond sustainability toward regeneration by creating systems that restore, support, and strengthen living ecosystems while improving human wellbeing.
+* Circular resource systems
+* Regenerative design principles
+* Environmental resilience
+* Positive environmental impact
 
----
-## Introduction
+#### 🔬 Future Research Directions
 
-Many environmental challenges today result from systems that extract resources faster than ecosystems can regenerate them. Industrial processes, infrastructure, and consumption patterns often create waste streams that accumulate in the environment and contribute to climate change, biodiversity loss, and pollution.
+* Living infrastructure
+* Nature-based technologies
+* Ecological engineering
+* Human-nature-energy interactions
 
-In contrast, natural ecosystems operate through continuous cycles of regeneration. Plants capture solar energy, absorb carbon dioxide, produce oxygen, recycle nutrients, support biodiversity, and create conditions for future growth. Waste in nature becomes a resource for another process.
+### Connection to Planta y Diviértete
 
-This project explores how engineering can learn from these biological strategies. Rather than designing systems that merely reduce environmental harm, the goal is to investigate systems capable of actively restoring ecological balance.
+Future Energy represents one branch of the broader *Planta y Diviértete* research initiative.
+
+While the main project explores how humans can learn from plants and living ecosystems to create regenerative systems, this section focuses specifically on the opportunities and challenges related to future energy systems inspired by nature.
+
+The purpose of this section is to investigate how future energy systems may evolve from extraction-based models toward regenerative systems that contribute positively to both ecosystems and human communities.
+
+➡️ [**Explore Planta y Diviértete**](../research/Research_Planta_y_Diviertete/))
