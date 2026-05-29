@@ -1,63 +1,25 @@
 # 🌿 Research Portfolio
 
-## Biomimicry, Ecological Systems & Future Sustainable Technologies
+This portfolio brings together research projects, academic explorations, presentations, and independent investigations developed throughout my academic journey.
 
-# Research Notes
+The collection reflects my growing interests in environmental engineering, biomimicry, ecological systems, sustainability, nature-based solutions, regenerative design, and future technologies inspired by living systems.
 
-This section contains research explorations related to:
+Some projects originate from coursework and academic activities at the Lucerne University of Applied Sciences and Arts (HSLU), while others emerge from personal curiosity and long-term independent research initiatives.
 
-- Research Portafolio
-- Biomimicry 
-- Ecological Systems
-- Nature-Inspired Technologies
-- Sustainable Engineering
-- Future Energy Systems
-  
-# 📄 Main Research Portfolio
+The purpose of this portfolio is not only to document completed work, but also to explore new questions, develop future ideas, and build a foundation for future research directions.
 
-➡️ [Open Full Research Portfolio PDF](./AnaLuciaOchoa_ResearchPortfolio.pdf)
+This portfolio is organized into three main categories:
 
-## 🔬 Research Vision
+### 🎓 HSLU Research & Academic Projects
 
-This research portfolio explores how natural systems may inspire future engineering solutions, sustainable technologies, and interdisciplinary innovation.
+Research, presentations, reports, and investigations developed as part of my studies in Environmental and Energy Systems Engineering.
 
-My work focuses on understanding how ecological principles, biological systems, and environmental processes can contribute to more adaptive, resilient, and sustainable approaches for society.
+### 📚 Previous Research Explorations
 
----
+Independent projects, presentations, and investigations that have shaped my understanding of environmental systems, sustainability, and nature-inspired innovation.
 
-### 🌿 Nature-Based Solutions Presentation
+### 🌱 Ongoing & Future Research Directions
 
-Academic presentation exploring the role of nature-based solutions in sustainable urban development, environmental resilience, and climate adaptation.
+Long-term research initiatives currently under development, including Planta y Diviértete and other explorations related to biomimicry, regenerative systems, ecological engineering, and future sustainable technologies.
 
-The presentation focuses on how ecological and engineering approaches can work together to address environmental challenges through sustainable infrastructure and ecosystem-based strategies.
-
-➡️ [View Nature-Based Solutions Presentation](./nature-based-solutions-presentation.pdf)
-
-Main topics explored:
-
-* Climate adaptation
-* Sustainable urban systems
-* Environmental resilience
-* Ecosystem-based engineering
-* Green infrastructure
-* Sustainability strategies
-  
----
-
-### 🤖 AI Energy: Beyond Politeness
-
-Short analytical research project exploring the environmental impact of artificial intelligence systems and the energy consumption associated with modern AI usage.
-
-➡️ [View AI Energy: Beyond Politeness Presentation](./ai-energy-beyond-politeness-analysis.pdf)
-
-The work focuses on:
-
-* AI energy consumption
-* Sustainability and digital infrastructure
-* Environmental impact of data centers
-* Critical analysis of AI usage patterns
-* Scientific communication and analytical writing
-
-The project reflects on how increasing AI adoption affects global energy systems and environmental sustainability while encouraging more conscious technology use.
-
-
+Together, these projects represent my ongoing effort to learn from nature and explore how living systems can inspire more resilient, regenerative, and sustainable futures.
