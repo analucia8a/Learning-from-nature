@@ -28,7 +28,7 @@ The purpose of this section is to document my research journey, explore new ques
 
 Research, presentations, and investigations developed as part of my studies at the Lucerne University of Applied Sciences and Arts (HSLU).
 
-➡️[View – HSLU Research & Academic Projects](./research/academy) 
+➡️[View – HSLU Research & Academic Projects](./academy) 
 
 ### Topics explored:
 
