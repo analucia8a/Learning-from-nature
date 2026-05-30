@@ -1,8 +1,8 @@
-# 📁 Environmental Data
-
-<p align="right">
-  <img src="logo-planta-y-diviertete.png" width="250">
+<p align="center">
+  <img src="logo-planta-y-diviertete.png" width="200">
 </p>
+
+# 📁 Environmental Data
 
 ## Why does this project matter?
 
