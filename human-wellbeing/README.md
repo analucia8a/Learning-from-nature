@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="logo-planta-y-diviertete.png" width="200">
+</p>
 # 📁 Human Wellbeing
 
 ## Reimagining the Relationship Between Humans and Nature
