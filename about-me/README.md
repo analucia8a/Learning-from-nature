@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-planta-y-diviertete.png" width="200">
+</p>
+
 # 📁 About Me
 
 ## Who is behind Planta y Diviértete?
