@@ -1,5 +1,9 @@
 # 📁 Environmental Data
 
+<p align="right">
+  <img src="logo-planta-y-diviertete.png" width="250">
+</p>
+
 ## Why does this project matter?
 
 This section contains environmental evidence, scientific reports, and sustainability data that support the need for regenerative systems and nature-based solutions.
